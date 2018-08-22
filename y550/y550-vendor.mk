@@ -21,22 +21,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y550/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
     vendor/huawei/y550/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
     vendor/huawei/y550/proprietary/etc/firmware/fused_nvm.bin:system/etc/firmware/fused_nvm.bin \
-#    vendor/huawei/y550/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
-#    vendor/huawei/y550/proprietary/etc/nfc/hardfault.cfg:system/etc/nfc/hardfault.cfg \
-#    vendor/huawei/y550/proprietary/etc/permissions/com.android.nfc.helper.xml:system/etc/permissions/com.android.nfc.helper.xml \
-#    vendor/huawei/y550/proprietary/etc/permissions/com.android.qualcomm.qti.nfc_extras.xml:system/etc/permissions/com.android.qualcomm.qti.nfc_extras.xml \
-#    vendor/huawei/y550/proprietary/etc/permissions/com.gsma.services.nfc.xml:system/etc/permissions/com.gsma.services.nfc.xml \
     vendor/huawei/y550/proprietary/etc/permissions/com.gsma.services.utils.xml:system/etc/permissions/com.gsma.services.utils.xml \
-#    vendor/huawei/y550/proprietary/etc/permissions/com.vzw.nfc.xml:system/etc/permissions/com.vzw.nfc.xml \
-#    vendor/huawei/y550/proprietary/framework/com.android.nfc.helper.jar:system/framework/com.android.nfc.helper.jar \
-#    vendor/huawei/y550/proprietary/framework/com.android.qualcomm.qti.nfc_extras.jar:system/framework/com.android.qualcomm.qti.nfc_extras.jar \
-#    vendor/huawei/y550/proprietary/framework/com.gsma.services.nfc.jar:system/framework/com.gsma.services.nfc.jar \
-    vendor/huawei/y550/proprietary/framework/com.gsma.services.utils.jar:system/framework/com.gsma.services.utils.jar \
-#    vendor/huawei/y550/proprietary/framework/com.vzw.nfc.jar:system/framework/com.vzw.nfc.jar \
-#    vendor/huawei/y550/proprietary/vendor/lib/hw/nfc_nci.qc199x.default.so:system/vendor/lib/hw/nfc_nci.qc199x.default.so \
-#    vendor/huawei/y550/proprietary/vendor/lib/libqnfc-nci.so:system/vendor/lib/libqnfc-nci.so \
-#    vendor/huawei/y550/proprietary/vendor/lib/libqnfc_nci_jni.so:system/vendor/lib/libqnfc_nci_jni.so
-
-#PRODUCT_PACKAGES += \
-#    GsmaNfcService \
-#    QNfc
+    vendor/huawei/y550/proprietary/framework/com.gsma.services.utils.jar:system/framework/com.gsma.services.utils.jar
