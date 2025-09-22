@@ -1,8 +1,9 @@
-This repository is part of the Android custom ROM development
-for the Huawei Y550 device(s). The main repository can be found
-[elsewhere on GitHub][1].
+# Moved to Codeberg
 
-Thanks for stopping by,  
+This project has moved to [Codeberg.org][1].  
+Please update your links.
+
+Kind regards,  
 FWieP
 
-[1]: https://github.com/fwiep/android_device_huawei_y550
+[1]: https://codeberg.org/fwiep/proprietary_vendor_huawei
